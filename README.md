@@ -14,6 +14,7 @@ Structure tasks: <br/>
 [№18](https://github.com/Huamskiy/homework-for-OMFK/blob/main/project18.cpp)<br/>
 [№19](https://github.com/Huamskiy/homework-for-OMFK/blob/main/project19.cpp)<br/>
 [№20](https://github.com/Huamskiy/homework-for-OMFK/blob/main/project20.cpp)<br/>
+<br/>
 Dynamic array tasks: <br/>
 [№1](https://github.com/Huamskiy/homework-for-OMFK/blob/main/dm1.cpp)<br/>
 [№2](https://github.com/Huamskiy/homework-for-OMFK/blob/main/dm2.cpp)<br/>
@@ -26,9 +27,10 @@ Dynamic array tasks: <br/>
 [№12](https://github.com/Huamskiy/homework-for-OMFK/blob/main/dm12.cpp)<br/>
 [№13](https://github.com/Huamskiy/homework-for-OMFK/blob/main/dm13.cpp)<br/>
 [№14](https://github.com/Huamskiy/homework-for-OMFK/blob/main/dm14.cpp)<br/>
+<br/>
 Tamplate tasks: <br/>
-There is nothing we can do...<br/>
-[klick here](https://github.com/Huamskiy/homework-for-OMFK/blob/main/napoleon.gif)<br/>
+[There is nothing we can do...](https://github.com/Huamskiy/homework-for-OMFK/blob/main/napoleon.gif)<br/>
+<br/>
 Recursion task: <br/>
 [№1](https://github.com/Huamskiy/homework-for-OMFK/blob/main/recu1.cpp)<br/>
 [№2](https://github.com/Huamskiy/homework-for-OMFK/blob/main/recu2.cpp)<br/>
@@ -38,10 +40,13 @@ Recursion task: <br/>
 [№13](https://github.com/Huamskiy/homework-for-OMFK/blob/main/recu13.cpp)<br/>
 [№14](https://github.com/Huamskiy/homework-for-OMFK/blob/main/recu14.cpp)<br/>
 [№16](https://github.com/Huamskiy/homework-for-OMFK/blob/main/recu16.cpp)<br/>
+<br/>
 Complexity tasks: <br/>
 in progress<br/>
+<br/>
 Sort tasks: <br/>
 maybe later<br/>
+<br/>
 Hash tasks: <br/>
 Life could be a dream (Sh-boom)<br/>
 If I could take you up in paradise up above (Sh-boom)<br/>
