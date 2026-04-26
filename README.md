@@ -38,4 +38,4 @@ There is nothing we can do...<br/>
 [№13](https://github.com/Huamskiy/homework-for-OMFK/blob/main/recu13.cpp)<br/>
 [№14](https://github.com/Huamskiy/homework-for-OMFK/blob/main/recu14.cpp)<br/>
 [№16](https://github.com/Huamskiy/homework-for-OMFK/blob/main/recu16.cpp)<br/>
-Complexity tasks: <br/>
+*Complexity tasks: <br/>
