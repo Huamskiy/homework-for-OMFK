@@ -42,6 +42,24 @@ Recursion task: <br/>
 [№16](https://github.com/Huamskiy/homework-for-OMFK/blob/main/recu16.cpp)<br/>
 <br/>
 Complexity tasks: <br/>
+№1 O(n)<br/>
+№2 O(n^2)<br/>
+№3 O(n^2)<br/>
+№4 O(log n)<br/>
+№5 O(n^2)<br/>
+№6 O(log n)<br/>
+№7 O(n log n)<br/>
+№8-№11 "I`m so f*cking scared"<br/>
+№12
+№13
+№14
+№15
+№16
+№17
+№18
+№19
+№20
+№21
 in progress<br/>
 <br/>
 Sort tasks: <br/>
