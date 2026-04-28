@@ -50,17 +50,22 @@ Complexity tasks: <br/>
 №6 O(log n)<br/>
 №7 O(n log n)<br/>
 №8-№11 "I`m so f*cking scared"<br/>
-№12
-№13
-№14
-№15
-№16
-№17
-№18
-№19
-№20
-№21
-in progress<br/>
+№12 O(n)<br/>
+№13 A = O(n), B = O(log n)<br/>
+№14 O(n log n)<br/>
+№15 O(n log n)<br/>
+№16 lim = 0 (1/infinity)<br/>
+№17 lim = 0 (6/inf. we need to find derivative 3 times)<br/>
+№18 1 -> log n -> sqrt(n) -> n -> n log n -> n^2 -> 2^n -> n!<br/>
+№19 A - f(n)=O(g(n)) (lim = 0)<br/>
+    B - f(n)=Θ(g(n)) (lim = 2)<br/>
+    C - f(n)=Θ(g(n)) (lim = 1)<br/>
+№20 A - 100n = n^2 => n = 100 (f(a)=f(b)) => n = 101 (f(a) = O(f(b)))<br/>
+    B - 0,01 sec<br/>
+№21 A - 10^8<br/>
+    B - 4,5*10^6<br/>
+    C - 10^4<br/>
+    D - 26<br/>
 <br/>
 Sort tasks: <br/>
 maybe later<br/>
